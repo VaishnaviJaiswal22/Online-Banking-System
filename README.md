@@ -13,10 +13,8 @@ Setup for Running the Project
 ---
    
 1. Open project ONLINE BANKING SYSTEM.
-2. Open src/com/obs and then mainwork folder.
-3. Create Database,tables into local system from SQL_TABLES.txt.
-4. Download .jar file according to your MySQL version from https://mvnrepository.com/artifact/mysql/mysql-connector-java.
-5. Run java file 'Main.java'.
+2. Download .jar file according to your MySQL version from https://mvnrepository.com/artifact/mysql/mysql-connector-java.
+3. Run java file 'Main.java'.
 
 ## Features
 
